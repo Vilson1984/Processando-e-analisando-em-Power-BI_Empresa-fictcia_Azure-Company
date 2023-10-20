@@ -1,7 +1,14 @@
 # Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company
 O projeto é o resultado dos estudo Bootcamp Santander 2023 Data Science Python. Trata-se de uma visão analítica dos dados de uma empresa(fictícia), hospedada no banco de dados MySQL do Azure e visualizados usando PowerBI.
 
-Objetivo:
+## Acesso ao Projeto:
+[PowerBI Desktop](https://github.com/Vilson1984/Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company/blob/master/Desafio%204%20-%20FINAL%20-%20Processando%20e%20Transformando%20dados%20com%20Power%20BI.pbix)
+
+[PowerBi Service - Online](https://app.powerbi.com/links/s9oeN5x3cY?ctid=e303a7fd-6ce9-4d1d-a70c-fc9642bbcfeb&pbi_source=linkShare)
+        
+    
+
+#### Objetivo:
 
     Criar banco de dados.
     Extrair dados.
@@ -9,7 +16,7 @@ Objetivo:
     Visualizar os dados transformados usando PowerBI.
 
 
-Tecnologias Utilizadas:
+#### Tecnologias Utilizadas:
 
     Azure: Microsoft Azure é uma plataforma de computação em nuvem que oferece uma variedade de serviços como poder de computação, opções de armazenamento e recursos de rede. Ele permite que as empresas executem seus aplicativos, armazenem dados e realizem análises em um ambiente seguro e escalável.
 
@@ -18,7 +25,7 @@ Tecnologias Utilizadas:
     PowerBI Desktop: uma poderosa ferramenta de análise de negócios da Microsoft que permite visualizar seus dados e compartilhar insights em toda a sua organização ou incorporá-los em um aplicativo ou site. Ele oferece uma interface baseada em desktop para a criação de relatórios e painéis.
 
 
-Diretrizes para transformação dos dados:
+#### Diretrizes para transformação dos dados:
 
     1. Verifique os cabeçalhos e tipos de dados
     2. Modifique os valores monetários para o tipo double preciso
@@ -38,7 +45,7 @@ Diretrizes para transformação dos dados:
     16. Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
 
 
-Método:
+#### Método:
 
     --Criando base de dados Azure_company
     create schema if not exists azure_company;
@@ -202,3 +209,5 @@ Método:
 
     --Inserindo registros na tabela works_on
     insert into works_on values (123456789, 1, 32.5), (123456789, 2, 7.5), (666884444, 3, 40.0), (453453453, 1, 20.0), (453453453, 2, 20.0), (333445555, 2, 10.0), (333445555, 3, 10.0), (333445555, 10, 10.0), (333445555, 20, 10.0), (999887777, 30, 30.0), (999887777, 10, 10.0), (987987987, 10, 35.0), (987987987, 30, 5.0), (987654321, 30, 20.0), (987654321, 20, 15.0), (888665555, 20, 0.0);
+
+
