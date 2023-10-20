@@ -1,22 +1,21 @@
-# Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company
+# Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company 📖
 O projeto é o resultado dos estudo Bootcamp Santander 2023 Data Science Python. Trata-se de uma visão analítica dos dados de uma empresa(fictícia), hospedada no banco de dados MySQL do Azure e visualizados usando PowerBI.
 
-## Acesso ao Projeto:
-[PowerBI Desktop](https://github.com/Vilson1984/Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company/blob/master/Desafio%204%20-%20FINAL%20-%20Processando%20e%20Transformando%20dados%20com%20Power%20BI.pbix)
+## Acesso ao Projeto: 🖥️
+☑️[PowerBI Desktop](https://github.com/Vilson1984/Processando-e-analisando-em-Power-BI_Empresa-fictcia_Azure-Company/blob/master/Desafio%204%20-%20FINAL%20-%20Processando%20e%20Transformando%20dados%20com%20Power%20BI.pbix)
 
-[PowerBi Service - Online](https://app.powerbi.com/links/s9oeN5x3cY?ctid=e303a7fd-6ce9-4d1d-a70c-fc9642bbcfeb&pbi_source=linkShare)
+☑️[PowerBi Service - Online](https://app.powerbi.com/links/s9oeN5x3cY?ctid=e303a7fd-6ce9-4d1d-a70c-fc9642bbcfeb&pbi_source=linkShare)
         
     
 
-#### Objetivo:
-
+#### Objetivo: 🎯
     Criar banco de dados.
     Extrair dados.
     Transformar os dados, no Power Query, para fins analíticos.
     Visualizar os dados transformados usando PowerBI.
 
 
-#### Tecnologias Utilizadas:
+#### Tecnologias Utilizadas: 📑
 
     Azure: Microsoft Azure é uma plataforma de computação em nuvem que oferece uma variedade de serviços como poder de computação, opções de armazenamento e recursos de rede. Ele permite que as empresas executem seus aplicativos, armazenem dados e realizem análises em um ambiente seguro e escalável.
 
